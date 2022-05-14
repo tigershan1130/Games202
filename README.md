@@ -19,3 +19,8 @@ Homework 4, Energy Conservation with kulla-county approximation.
 
 
 ![alt text](https://github.com/tigershan1130/Games202/blob/main/hw4/Images/BRDF%2BKullaConty.png)
+
+
+Reference:
+主页 https://sites.cs.ucsb.edu/~lingqi/teaching/games202.html
+论坛 http://games-cn.org/forums/forum/games202/
