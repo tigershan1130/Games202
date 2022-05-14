@@ -9,7 +9,7 @@ var envmap = [
 	'assets/cubemap/CornellBox',
 ];
 
-var currentSHtype = "/unshadowed"
+var currentSHtype = "/shadowed"
 
 var guiParams = {
 	envmapId: 0

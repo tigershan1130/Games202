@@ -19,6 +19,7 @@ void main(void) {
 
   float Gamma = 2.2;
 
+
   vec4 gammaColor = vec4(pow(vColor.r/3.14, 1.0/Gamma), pow(vColor.g/3.14, 1.0/Gamma), pow(vColor.b/3.14, 1.0/Gamma), 1.0);
 
   gl_FragColor = gammaColor;
