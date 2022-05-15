@@ -11,7 +11,7 @@ Homework 2, PRT(Precomputed Radiance Transfer)(linear gamma space conversion)
 
 ![alt text](https://github.com/tigershan1130/Games202/blob/main/hw2/hw2_Submission/images/PRT_Shadowed_Cathedral.png)
 
-Homework 3, Screen spaced Global Illumination method
+Homework 3, Screen spaced Global Illumination method(TODO: Should Apply Homework 5 to this)
 
 ![alt text](https://github.com/tigershan1130/Games202/blob/main/hw3/images/IDL_Cave.png)
 
