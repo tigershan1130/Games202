@@ -7,7 +7,7 @@ Homework 1, Advanced Shadows
 
 ![alt text](https://github.com/tigershan1130/Games202/blob/main/hw1/homework1/images/PCSS_FINAL_SWQ.png)
 
-Homework 2, PRT(Precomputed Radiance Transfer)
+Homework 2, PRT(Precomputed Radiance Transfer)(linear gamma space conversion)
 
 ![alt text](https://github.com/tigershan1130/Games202/blob/main/hw2/hw2_Submission/images/PRT_Shadowed_Cathedral.png)
 
