@@ -15,7 +15,7 @@ Homework 3, Screen spaced Global Illumination method
 
 ![alt text](https://github.com/tigershan1130/Games202/blob/main/hw3/images/IDL_Cave.png)
 
-Homework 4, Energy Conservation with kulla-county approximation.
+Homework 4, Energy Conservation with kulla-county approximation(linear gamma space conversion)
 
 
 ![alt text](https://github.com/tigershan1130/Games202/blob/main/hw4/Images/BRDF%2BKullaConty.png)
