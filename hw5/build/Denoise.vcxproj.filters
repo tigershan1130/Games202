@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\swq_s\Desktop\Source\GamesProject\Games202\hw5\src\denoiser.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\swq_s\Desktop\Source\GamesProject\Games202\hw5\src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\swq_s\Desktop\Source\GamesProject\Games202\hw5\src\util\image.cpp">
+      <Filter>src\util</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\swq_s\Desktop\Source\GamesProject\Games202\hw5\src\util\imageutil.cpp">
+      <Filter>src\util</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\swq_s\Desktop\Source\GamesProject\Games202\hw5\src\util\mathutil.cpp">
+      <Filter>src\util</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\swq_s\Desktop\Source\GamesProject\Games202\hw5\src\denoiser.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\swq_s\Desktop\Source\GamesProject\Games202\hw5\src\ext\filesystem\fwd.h">
+      <Filter>src\ext\filesystem</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\swq_s\Desktop\Source\GamesProject\Games202\hw5\src\ext\filesystem\path.h">
+      <Filter>src\ext\filesystem</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\swq_s\Desktop\Source\GamesProject\Games202\hw5\src\ext\filesystem\resolver.h">
+      <Filter>src\ext\filesystem</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\swq_s\Desktop\Source\GamesProject\Games202\hw5\src\ext\tinyexr\tinyexr.h">
+      <Filter>src\ext\tinyexr</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\swq_s\Desktop\Source\GamesProject\Games202\hw5\src\util\buffer.h">
+      <Filter>src\util</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\swq_s\Desktop\Source\GamesProject\Games202\hw5\src\util\common.h">
+      <Filter>src\util</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\swq_s\Desktop\Source\GamesProject\Games202\hw5\src\util\image.h">
+      <Filter>src\util</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\swq_s\Desktop\Source\GamesProject\Games202\hw5\src\util\imageutil.h">
+      <Filter>src\util</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\swq_s\Desktop\Source\GamesProject\Games202\hw5\src\util\mathutil.h">
+      <Filter>src\util</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\swq_s\Desktop\Source\GamesProject\Games202\hw5\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{D3CA8D0D-B907-3CC1-8D4D-7391569C8C0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\ext">
+      <UniqueIdentifier>{AF742679-442C-3934-B48D-761E691A2383}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\ext\filesystem">
+      <UniqueIdentifier>{170E0614-61C7-36C0-9676-B7FD635FDBA2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\ext\tinyexr">
+      <UniqueIdentifier>{B1317BF4-384C-3A31-9729-A7D6D424921B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\util">
+      <UniqueIdentifier>{7704DABB-F06A-3A5A-8436-982E2A13E620}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

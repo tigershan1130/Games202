@@ -1,0 +1,3 @@
+C:/Users/swq_s/Desktop/Source/GamesProject/Games202/hw5/build/CMakeFiles/Denoise.dir
+C:/Users/swq_s/Desktop/Source/GamesProject/Games202/hw5/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/swq_s/Desktop/Source/GamesProject/Games202/hw5/build/CMakeFiles/ZERO_CHECK.dir
