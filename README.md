@@ -5,20 +5,18 @@
 
 Homework 1, Advanced Shadows 
 
-![alt text](https://github.com/tigershan1130/Games202/blob/main/hw1/homework1/images/PCSS_FINAL_SWQ.png)
+![image](https://github.com/tigershan1130/Games202/assets/39791762/3f4b77b5-ebbf-4e1c-8379-2cbc386e661b)
 
 Homework 2, PRT(Precomputed Radiance Transfer)(linear gamma space conversion)
 
-![alt text](https://github.com/tigershan1130/Games202/blob/main/hw2/hw2_Submission/images/PRT_Shadowed_Cathedral.png)
+![image](https://github.com/tigershan1130/Games202/assets/39791762/fac7ef23-8d82-4a21-9702-f0cf514bdb40)
 
 Homework 3, Screen spaced Global Illumination method(TODO: Should Apply Homework 5 to this)
 
-![alt text](https://github.com/tigershan1130/Games202/blob/main/hw3/images/IDL_Cave.png)
 
 Homework 4, Energy Conservation with kulla-county approximation(linear gamma space conversion)
 
 
-![alt text](https://github.com/tigershan1130/Games202/blob/main/hw4/Images/BRDF%2BKullaConty.png)
 
 Homework 5, Single Frame Filtering and Multi-Frame Filtering Techniques(Joint Biliateral Filtering and Temporal(didn't feel like spend extra time to finish))
 
