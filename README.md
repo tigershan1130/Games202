@@ -17,6 +17,7 @@ Homework 3, Screen spaced Global Illumination method(TODO: Should Apply Homework
 
 Homework 4, Energy Conservation with kulla-county approximation(linear gamma space conversion)
 
+![image](https://github.com/tigershan1130/Games202/assets/39791762/7a3caf3a-457f-4f29-a60f-35d118c7a006)
 
 
 Homework 5, Single Frame Filtering and Multi-Frame Filtering Techniques(Joint Biliateral Filtering and Temporal(didn't feel like spend extra time to finish))
