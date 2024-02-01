@@ -22,7 +22,8 @@ Homework 4, Energy Conservation with kulla-county approximation(linear gamma spa
 
 Homework 5, Single Frame Filtering and Multi-Frame Filtering Techniques(Joint Biliateral Filtering and Temporal(didn't feel like spend extra time to finish))
 
-![alt text](https://github.com/tigershan1130/Games202/blob/main/hw5/BoxResults.jpg)
+![image](https://github.com/tigershan1130/Games202/assets/39791762/890ef580-524d-46fd-8498-80698b236294)
+
 
 Reference:
 
