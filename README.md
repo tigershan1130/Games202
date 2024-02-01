@@ -13,6 +13,7 @@ Homework 2, PRT(Precomputed Radiance Transfer)(linear gamma space conversion)
 
 Homework 3, Screen spaced Global Illumination method(TODO: Should Apply Homework 5 to this)
 
+![image](https://github.com/tigershan1130/Games202/assets/39791762/ac917108-ca7c-4ad6-b4ec-a380e9a0750f)
 
 Homework 4, Energy Conservation with kulla-county approximation(linear gamma space conversion)
 
